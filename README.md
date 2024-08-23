@@ -16,3 +16,15 @@ The project involves utilizing the Marketstack API to fetch stock market data an
    - **Insights Generation:** Provide actionable insights based on the visualized data to support informed investment decisions.
 
 The project enhances financial analysis by integrating comprehensive stock market data with advanced processing and visualization techniques, enabling deeper insights into market trends and stock performance.
+
+**Output**
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/e762bdfc-7b86-4e99-81b8-65b1f64b6490">
+
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/1a07d062-6ac5-4e52-9b00-781e063eb931">
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/a829a7db-240e-480c-93c6-9ad4ee121f6b">
+
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/2c7ea77e-ec8c-47c8-91de-a5260d353d7e">
+
+
